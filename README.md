@@ -1,3 +1,4 @@
+<h1> Welcome To My GitHub!!! </h1>
 <h2>A Little Bit About Me</h2>
 
    <p>Hi! My name is Cate Schick and I am currently a rising senior at Duke University.</p>
