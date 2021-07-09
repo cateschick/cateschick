@@ -11,8 +11,11 @@
 
 <h2>Career Goals</h2>
 
-   <p>I'm interested in going into tech after I graduate in 2022, and I'm still exploring 
+   <p>I'm interested in going into tech after I graduate in May 2022, and I'm still exploring 
     careers within this sector to decide which areas I like best!</p>
+    
+   <p> I am currently working as a backend software engineer in the Lower East Side, and I'm enjoying 
+   everything about it. I'm also interested in artificial intelligence, specifically machine learning. </p>
 
 <h2>What Can You Find On My GitHub?</h2>
 
@@ -21,4 +24,4 @@
   
 <h2>What Do I Do Besides Code?</h2>
 
-   <p>In my free time, I love reading Stephen King books, boxing, soccer, and bartending.</p>
+   <p>In my free time, I love reading Stephen King books, baking artsy cupcakes, boxing, and bartending.</p>
