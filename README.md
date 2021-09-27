@@ -1,21 +1,21 @@
 <h1> Welcome To My GitHub!!! </h1>
 <h2>A Little Bit About Me</h2>
 
-   <p>Hi! My name is Cate Schick and I am currently a rising senior at Duke University.</p>
+   <p>Hi! My name is Cate Schick and I am currently a senior at Duke University.</p>
 
    <p>I'm pursuing an interdisciplinary major in Neuroscience and Computer Science that
-    I created myself titled "Neuro-Symbolic Reasoning". Basically, it's a combination
+    I created myself titled "Neuro-Symbolic Reasoning". Basically, my major is a combination
     of these two subjects with a primary focus on learning (both biological and
     artifical) and the ways in which both brains and machines reason with information 
-    and make a decision.</p>
+    in order to make a decision.</p>
 
 <h2>Career Goals</h2>
 
    <p>I'm interested in going into tech after I graduate in May 2022, and I'm still exploring 
     careers within this sector to decide which areas I like best!</p>
     
-   <p> I am currently working as a backend software engineer in the Lower East Side, and I'm enjoying 
-   everything about it. I'm also interested in artificial intelligence, specifically machine learning. </p>
+   <p> During the Summer of 2021, I worked as a backend software engineer in the Lower East Side, and I enjoyed 
+   everything about it. I am continuing to work for this company part-time during my senior year. I'm also interested in artificial intelligence, specifically machine learning. </p>
 
 <h2>What Can You Find On My GitHub?</h2>
 
