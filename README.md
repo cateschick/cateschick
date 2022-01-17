@@ -11,8 +11,7 @@
 
 <h2>Career Goals</h2>
 
-   <p>I'm interested in going into tech after I graduate in May 2022, and I'm still exploring 
-    careers within this sector to decide which areas I like best!</p>
+   <p>I'm interested in going into tech after I graduate in May 2022, specifically as a Software Engineer. I like building things, solving problems, and explaining complex concepts in terms anyone can understand.</p>
     
    <p> During the Summer of 2021, I worked as a backend software engineer in the Lower East Side, and I enjoyed 
    everything about it. I am continuing to work for this company part-time during my senior year. I'm also interested in artificial intelligence, specifically machine learning. </p>
